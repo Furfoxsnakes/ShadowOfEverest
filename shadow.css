@@ -6006,7 +6006,7 @@ a.text-gray-dark:hover {
 
 body {
   background-color: #E5E5E5;
-  background-size: cover;
-  background-repeat: none;
+  background-size: fixed;
   background-position: top left;
+  background-repeat: none;
   background-image: url("background.png"); }
