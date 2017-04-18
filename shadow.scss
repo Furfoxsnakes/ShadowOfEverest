@@ -153,10 +153,9 @@ $blockquote-font-size:    ($font-size-base * 1.25) !default;
 
 // ADD YOUR CUSTOM CSS HERE  
 
-body > * {
+body {
   background-color: #E5E5E5;
-  background-size: cover;
   background-repeat: none;
-  background-position: center ;
-  background-image: url('Idle_Hands_Cover_2000_Saturation.png');
+  background-position: top left ;
+  background-image: url('background.png');
 }
