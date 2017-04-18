@@ -155,8 +155,8 @@ $blockquote-font-size:    ($font-size-base * 1.25) !default;
 
 body {
   background-color: #E5E5E5;
-  background-size: cover;
+  background-size: fixed;
+  background-position: top left;
   background-repeat: none;
-  background-position: top left ;
   background-image: url('background.png');
 }
